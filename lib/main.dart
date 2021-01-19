@@ -5,7 +5,7 @@ void main() {
   runApp(
     Center(
         child: Text(
-      'Dương béo chào bạn nghĩa nhá :v',
+      'Hello :v',
       textDirection: TextDirection.ltr,
     )),
   );
